@@ -1,0 +1,106 @@
+h2{
+    color:seagreen
+}
+div.head {
+   color: violet;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div.intro{
+    color:blue;
+}
+div.advantages{
+    border:4px solid blueviolet;
+    border-radius: 90px;
+    background-color:cyan;
+    
+}
+h2.content{
+    size: 10px;
+    color:black;
+}.right{
+    margin-top:15mm;
+    margin-left: 10mm;
+    position:relative;
+    display:flex;
+    align-items: center;
+    border: 3px solid black;
+    float: left;
+    border-radius: 180px;
+    background-color:cyan;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.left{
+    margin-top:15mm;
+    margin-right:9mm;
+    float:right;
+    display:flex;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 180px;
+    background-color:cyan;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+img {
+    border:5px solid yellow;
+    border-radius :100px;
+ 
+
+}
+.modes{
+    background-color:cyan;
+    border:5px solid blueviolet;
+    border-radius :100px;
+    margin-top:20mm;
+}
+.variable{
+    margin-right:210mm;
+    margin-left:210mm; 
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 180px;
+    background-color:cyan;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.var{
+    margin-right:490mm;
+    border-radius:40px;
+    border:4px solid black;
+    background-color: lightgreen;
+}
+.var2{
+    align-items: center;
+    margin-top:10px;
+    margin-right:400mm;
+    border-radius:60px;
+    border:4px solid black;
+    background-color:lightblue;
+
+}
+.pythonCode{
+    margin-top:5mm;
+    margin-bottom:13mm;
+    margin-right:300mm;
+    border: 4px solid black;
+    border-radius:60px;
+    background-color:lightgreen;
+}
+.code{
+    padding-top: 20mm;
+    padding-right: 20mm;
+    padding-bottom: 20mm;
+    padding-left: 20mm;
+    margin-top:5mm;
+    margin-right:450mm;
+    border: 4px solid black;
+    border-radius:60px;
+    background-color:lightblue;
+}
+.owner{ 
+    margin-top:10mm;
+    margin-bottom:500mm;
+    border: 4px solid black;
+    border-radius:60px;
+    background-color:lightblue;
+    float:left;
+    display:flex;
+}
